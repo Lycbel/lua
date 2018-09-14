@@ -2,7 +2,7 @@
 ** $Id: ldo.c,v 2.201 2018/05/22 12:02:36 roberto Exp roberto $
 ** Stack and Call structure of Lua
 ** See Copyright Notice in lua.h
-*/
+****/
 
 #define ldo_c
 #define LUA_CORE
